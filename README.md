@@ -22,23 +22,31 @@ This is a simple Todo app with an Add to Cart feature built using React and Chak
 
    ```bash
    git clone https://github.com/your-username/todo-app.git
+   ```
    
 2. Navigate to the project directory:
 
  ```bash
   cd todo-app
+  ```
 
 
 3. Install dependencies:
 
-
+```bash
   npm install
+  ```
 
 
 4. Start the development server:
 
+```bash
   npm start
+```
 
 Open the app in your browser at http://localhost:3000.
 
-## Here is alos Deploy link: https://todo-shopping-cart.netlify.app/
+## Deployment
+
+Here is the deployed version of the Todo App with Add to Cart functionality: [Todo App](https://todo-shopping-cart.netlify.app/)
+
