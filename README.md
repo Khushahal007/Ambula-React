@@ -40,3 +40,5 @@ This is a simple Todo app with an Add to Cart feature built using React and Chak
   npm start
 
 Open the app in your browser at http://localhost:3000.
+
+## Here is alos Deploy link: https://todo-shopping-cart.netlify.app/
